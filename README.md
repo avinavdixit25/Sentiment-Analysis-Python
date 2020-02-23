@@ -1,6 +1,6 @@
 # python-tuned-sentiments
 A basic sentiment analysis of the top songs of the 21st century. 
-This code uses the NRC emotion lexicon library to show the sentiments and emotions associated with the top songs of 2019. It also compares these sentiments and emotions across some popular genres of songs of the 21st century and depicts how these have been changing over time. Additionaly, it predicts these trends for the next 10 years.
+This code uses the NRC emotion lexicon library to show the sentiments and emotions associated with the top songs of 2019. It also compares these sentiments and emotions across some popular genres of songs of the 21st century and depicts how these have been changing over time. Additionally, it predicts these trends for the next 10 years.
 
 ## Installation
 To run this project, you will need an authentication key for the API call used, which can be created by registering on [musixmatch.com](https://developer.musixmatch.com/).
